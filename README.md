@@ -39,6 +39,10 @@ Audit ./downloads/some-skill
 You get a one-page report with a verdict: **Install / Install with changes / Do not install**.
 See [`skills/skill-audit/references/report_format.md`](skills/skill-audit/references/report_format.md) for the exact shape.
 
+## Example reports
+
+See [`reports/`](reports/) — real audits of public skills, in the shape this skill produces.
+
 ## Why this exists
 
 I write software for a living, alone, in Japan. In 2026 I wrote up a case where a
